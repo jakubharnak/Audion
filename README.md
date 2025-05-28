@@ -1,5 +1,4 @@
-# Audion
-# 🔊 Audio Intelligence Platform
+# 🔊 Audion
 
 A web-based tool for analyzing and comparing audio recordings, built with **React (frontend)** and **Python (backend)**. The platform allows users to upload multiple audio files, compare unknown sounds to a known database, generate visual feedback like spectrograms, and run various audio-processing tasks – all from a clean, browser-based interface.
 
