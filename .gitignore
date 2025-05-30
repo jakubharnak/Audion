@@ -1,0 +1,70 @@
+# Python virtual environment
+/src/audion-backend/venv/
+
+# Node.js dependencies
+/src/audion-frontend/node_modules/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Virtual environments (additional patterns)
+venv/
+env/
+ENV/
+.venv/
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Build outputs
+dist/
+build/
+*.egg-info/
+
+# Audio files (if you don't want to track them)
+*.wav
+*.mp3
+*.flac
+*.aac
+*.ogg
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Coverage reports
+htmlcov/
+.coverage
+.coverage.*
+coverage.xml
+
+# PyTest cache
+.pytest_cache/
